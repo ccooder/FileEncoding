@@ -1,5 +1,5 @@
-./bin
-./test
+bin/
+test/
 *.class
 
 # Package Files #
