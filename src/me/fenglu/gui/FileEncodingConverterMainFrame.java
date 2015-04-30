@@ -32,7 +32,7 @@ public class FileEncodingConverterMainFrame extends JFrame{
 	private static JScrollPane scroll;
 	private JButton btnChange;
 	
-	public void launchFrame(FileEncodingConverterMainFrame frame) {
+	public void launchFrame(final FileEncodingConverterMainFrame frame) {
 		this.setBounds(100, 100, 400, 300);
 		JPanel panelUp = new JPanel();
 		
